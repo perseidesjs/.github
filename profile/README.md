@@ -7,6 +7,3 @@
     </picture>
   </a>
 </p>
-<h1 align="center">
-  perseides
-</h1>
